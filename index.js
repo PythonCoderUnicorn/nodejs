@@ -177,6 +177,103 @@ const affirmations = [
   
 ]
 
+const NASA_planets = [
+  "Planet Cyb B b (16 Cyg B) is a planet you can rule over",
+  "Planet 17 Sco b has voted President",
+  "Planet 4 UMa b is a planet that needs U ",
+  "You just won the Exoplanet lottery, you now own 55 Cnc b, c, d, e, and f",
+  "Some planets are a throuple like 61 Vir b, 61 Vir c and 61 Vir d",
+  "select a Exoplanet: AU Mic b or AU Mic c",
+  "planet tau Gem b is for Geminis",
+  "when you see XO, think of the planets XO-1 b, XO-2, XO-3 ... XO-7",
+  "Planet UZ For c and b are safe for vacation",
+  "have tea at the trendy new planet, Teegarden's Star c (star b isn't as good)",
+  "if you like Trap music, then we suggest TRAPPIST-1 h (g,f,e,d,c,b are back albums)",
+  "every Trans person gets to have a TOI planet, options include TOI-969 c or b",
+  "you won the sweepstakes! You won the planets SWEEPS-4 b and SWEEPS-11 b !!",
+  "those gender affirming clothes come from planets Ross 508 b, 458 c and 128 b",
+  "your DNA comes from the planet ROXs 42 B b, 'cuz you rocks baby! ",
+  "if you're a Virgo from NY, NY Vir c or b is place to check out",
+  "my eye makeup comes from the planet MASCARA-4 b, maturally sourced ",
+  "planet LHS 3844 b, is Lovely Health Services 3844 "
+]
+
+const Transgender_People = [
+  "Singer Jake Zyrus (he/him) invites you to lunch, what will you ask him?",
+  "Entertainer Marie-Pier Ysser (she/her) invites you to a show, what will you ask her?",
+  "Cyclist & Journalist Philippa York (she/her) wants write article on you, what will she write about?",
+  "Electronic Musician Sophie Xeon (no prounouns), sends you a demo song, what will your review be?",
+  "YouTuber Natalie Wynn (ContraPoints) (she/her) wants your advice on something, what advice do you have?",
+  "Video Ganer & Website creator Narcissa Wright is going to make a website for you, you won a prize!",
+  "Actor & performer Holly Woodlawn (she/her) is going to star in your Sci-Fi story",
+  "Soldier Joanne Wingate (she/her) agrees, she thinks you are badass",
+  "Writer Jia Qing Wilson-Yang (she/her) is thinking of adding character based of you, what character are you?",
+  "Computer Scientist Sophie Wilson (she/her) checked the source code, you are valid",
+  "Activist & organizer @ Transgender Law Center Raquel Willis (she/her) wants you to volunteer, make a speech",
+  "Drag Queen Kornbread Jeté (Demoria E. Williams) (she/her) wants to sit down and spill the tea with you",
+  "Barbara Ann Wilcox, (she/her) one of the 1st Trans persons to legally change their name has a lecture and you are invited to go",
+  "Lawyer/ Writer/ Activist Stephen Whittle (he/him) has an education workshop, you got tickets!",
+  "YouTuber Blaire White (she/her) mentioned you by name! ",
+  "Climatologist & Activist Penny Whetton (she/her) has research showing you are hot",
+  "Musician & Artist Janine Wegman (she/her) has a song and art piece that is about you",
+  "Civil Rights Activist Brianna Westbrook (she/her) says ROCK THE VOTE, you gotta vote for yourself",
+  "Actor Lachlan Watson (they/them) has an improve scene with you ",
+  "Actress Annie Wallace (she/her) says you can be at times melodramatic",
+  "Film TV Director Lily Wachowski (she/her) has a new special role for you to play in the next Matrix film",
+  "Film TV Director Lana Wachowski (she/her) has a new special role for you to play in the next Matrix film",
+  "Brazilian mixed martial arts fighter Anne Viriato (she/her) said she will beat up your enemies",
+  "TV anchor Rose Venkatesan (she/her) wants to do an article on why you are so wonderful",
+  "Actress & Singer Daniela Vega (she/her) wants to write a opera love ballad about you",
+  "Professional Cyclist Natalie van Gogh (she/her) wants to ride bikes with you this weekend",
+  "Eastern Airlines pilot who got fired Karen Ulane (she/her) is going to have a lecture, you are not busy that night",
+  "TV Reporter/ Scientist Zoey Tur (she/her) has a new article on how wonderful you are",
+  "Professional Wrestler Gabbi Tuft (she/her) will body slam those who oppose you !",
+  "Software Developer Justine Tunney (she/her) says your pre-installed gender was wrong, you now have the one you need",
+  "Writer & Actress Gabrielle Trembley (she/her) is going to play a role based on you, how awesome",
+  "Artist & Politician Manuela Trasobares (she/her) has a new art piece inspired by you",
+  "Actress Josie Totah (she/her) has a scene based on your life",
+  "Politician & Activist Brianna Titone (she/her) says you gotta fight for your right",
+  "Musician Billy Tipton (he/him) wrote a song about the positivity you share with the world",
+  "Activist Efrat Tilma (she/her) says your voice matters in the fight",
+  "Video Game Developer Maddy Thorston (she/her) says you are a special character in the game of life",
+  "Writer Jeanne Thornton (she/her) wants to do a story in Rocksalt Magazine on you ",
+  "YouTuber (Philosophy Tube) Abigail Thorn (she/her) mentioned how important you are to the Trans community",
+  "TV Presenter Ramon Te Wake (she/her) thinks you are special, special edition ",
+  "Voice Actress Maddie Taylor (she/her) is asking how you say 'i look stunning' ?",
+  "Scientist Robyn Leigh Tanguay (she/her) reviewed the evidence, it is indeed true you are valid in your gender",
+  "Free Software Programmer Audrey Tang (she/her) says you have special code in your self love software update ",
+  "Model & Beauty Pageant contestant Jenna Talackova (she/her) wnats to do some photoshoots with you",
+  "Singer & Model Cindy Thái Tài (she/her) has a song about your fierceness in life",
+  "Fashion Model Lea T (she/her) wants to do some Instagram photos with you",
+  "Singer / Activist Titica (she/her) says you shine bright",
+  "Author & Activist Lou Sullivan (he/him) has a some advice, try to stay positive",
+  "Model & Actress Stav Strashko (she/her) is interested in some Instagram posts with you ",
+  "Cartoonist / Animation producer of She-Ra (2020) ND Stevenson (he/him) wants to animate you as a character",
+  "Speaker & Activist Abby Stein (she/her) has invited you to a Jewish deli for lunch",
+  "Las Vegas Showgirl Jahna Steele (she/her) is wondering if you want to to go to a show",
+  "Politician Susan Stanton (she/her) understands wins and setbacks, she gets it",
+  "Musician Rae Spoon (they/them) has a song for you",
+  "Drag Queen Sonique (she/her) invited you to her show",
+  "First Transgender nominee to US Senate Misty Snow (she/her) is fighting for you ",
+  "Activist & Founder of TDOR Gwendolyn Ann Smith (she/her) wants you to keep going ",
+  "Actor Brian Michael Smith (he/him) seen in The L Word , is interested in grabbing coffee with you",
+  "First Transgender person elected to the German parliament Nyke Slawik loves your climate friendly actions",
+  "YouTuber (Cavetown) Robin D. Skinner (he/they) have a song about how great you are ",
+  "Singer Noah Skaalum (he/him) sings about the struggles and triumphs you face ",
+  "Rock Musician Lucas Silveira (he/him) the 1st openly Transgender man to have a major record deal, knows the struggle  ",
+  "Assistant Professor in Creative Writing at U of Calgary Vivek Shraya (she/her) wants you to express ypurself",
+  "R&B Singer Jackie Shane (she/her) wants you to move your body in a positive way and direction",
+  "PhD Julia Serano (she/her) of 'Whipping Girl' book fame & 'transmisogny' has a SLAM poetry event, you booked your spot "
+ 
+]
+
+
+
+
+
+
+// console.log(affirmations.length)
+
 function between(min, max) {
   return Math.floor( Math.random() * (max - min + 1) + min) 
 }
@@ -192,10 +289,15 @@ app.get("/", (req, res) => {
   
 })
 
-app.get('/news', (req, res) => {
-  res.json(words)
+app.get('/nasa', (req, res) => {
+  // res.json(words)
+  res.json(NASA_planets[between(1, NASA_planets.length)])
 })
 
 app.get('/affirmation', (req, res) => {
   res.json(affirmations[between(1, affirmations.length)])
+})
+
+app.get('/people', (req, res) => {
+  res.json(Transgender_People[between(1, Transgender_People.length)])
 })
