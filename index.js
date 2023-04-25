@@ -161,6 +161,17 @@ const affirmations = [
   "WIFI passcode: hackTheBinary",
   "WIFI passcode: TransIsBeautiful",
   "gender is like water, it is fluid, yet powerful",
+
+
+
+  "the binary is for computers",
+	"binaries are old-fashioned, you're open source, 100% \"libre\"",
+  "# rm -rf gender_roles gender_stereotypes gender_assigned_at_birth && deluser patriarchy sudoers && chown me gender_identity",
+  "Operation completed successfully: you now have administration rights for your own gender identity.",
+  "Transphobes are draining your battery faster. Switch to your trans friends for up to 75% more gender euphoria.",
+	"Your computer is running low on storage space. We can create some space by deleting Cisnormativity.",
+	"transphobia.exe: This application failed to start because hate.dll was not found.",
+	"If someone asks about your gender or transition, you can just say: \"I got an update\"!",
   
 
 
