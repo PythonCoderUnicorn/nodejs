@@ -24,7 +24,7 @@ const words = ['one', 'two', 'three']
 const affirmations = [
   "Everyday you are a shining star",
   "You are as natural as the sunset, where the clouds are pink in a blue sky",
-  "You are special, you have something that no one else",
+  "You are special, you have something that no one else has",
   "you are rockin' it",
   "some people don't know how awesome you are",
   "take a few minutes, breathe, say something positive about yourself",
